@@ -9,7 +9,7 @@ While issues (and solutions) can be discussed and tracked in this repository, it
 
 ### What works (with tweaks)
 
-- :heavy_check_mark: Wifi
+- :heavy_check_mark: WiFi
 - :heavy_check_mark: Keyboard (dumb mode)
 - :heavy_check_mark: Touchpad
 - :heavy_check_mark: Audio
