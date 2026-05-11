@@ -17,19 +17,21 @@ While issues (and solutions) can be discussed and tracked in this repository, it
 - :heavy_check_mark: Touchscreen
 - :heavy_check_mark: Native screen resolution (disable PSR)
 - :heavy_check_mark: Power button
+- :heavy_check_mark: Lid switch
 
 ### What doesn't work
 
 - :x: Keyboard (no dumb mode)
+- :x: LED on Caps-Lock
+- :x: Mute key
+- :x: Keyboard backlight key
 
 ### What is uncertain
 
 - :question: USB-C (screen, ethernet, hid, etc…)
 - :question: Fan control
-- :question: Lid switch
 - :question: Suspend/Resume
 - :question: Fingerprint Reader
-- :question: LED on Caps-Lock and Mic key
 - :question: Fan speed
 - :question: Respect battery tresholds
 
