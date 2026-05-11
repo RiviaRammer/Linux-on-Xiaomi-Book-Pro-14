@@ -15,8 +15,8 @@ While issues (and solutions) can be discussed and tracked in this repository, it
 - :heavy_check_mark: Audio
 - :heavy_check_mark: Bluetooth
 - :heavy_check_mark: Touchscreen
+- :heavy_check_mark: Native screen resolution (disable PSR)
 
-- 
 ### What doesn't work
 
 - :x: Keyboard (no dumb mode)
@@ -24,7 +24,6 @@ While issues (and solutions) can be discussed and tracked in this repository, it
 ### What is uncertain
 
 - :question: USB-C (screen, ethernet, hid, etc…)
-- :question: Native screen resolution
 - :question: Fan control
 - :question: Lid switch
 - :question: Suspend/Resume
@@ -49,6 +48,14 @@ Add following boot parameter to the kernel commandline to fix keyboard:
 
 ```
 i8042.dumbkbd
+```
+
+### 2. Screen
+
+Add following boot parameter to the kernel commandline to fix screen:
+
+```
+i915.enable_psr=0
 ```
 
 
