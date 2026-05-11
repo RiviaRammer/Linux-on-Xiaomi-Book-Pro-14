@@ -16,6 +16,7 @@ While issues (and solutions) can be discussed and tracked in this repository, it
 - :heavy_check_mark: Bluetooth
 - :heavy_check_mark: Touchscreen
 - :heavy_check_mark: Native screen resolution (disable PSR)
+- :heavy_check_mark: Power button
 
 ### What doesn't work
 
@@ -30,7 +31,6 @@ While issues (and solutions) can be discussed and tracked in this repository, it
 - :question: Fingerprint Reader
 - :question: LED on Caps-Lock and Mic key
 - :question: Fan speed
-- :question: Power button
 - :question: Respect battery tresholds
 
 ### Tested Linux Distributions
