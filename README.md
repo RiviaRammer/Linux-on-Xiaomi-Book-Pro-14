@@ -28,7 +28,8 @@ While issues (and solutions) can be discussed and tracked in this repository, it
 
 ### What is uncertain
 
-- :question: USB-C (screen, ethernet, hid, etc…)
+- :question: USB-C (:heavy_check_mark: screen, ethernet, hid, etc…)
+- :question: Thunderbolt 4 (:heavy_check_mark: screen, ethernet, hid, etc…)
 - :question: Fan control
 - :question: Suspend/Resume
 - :question: Fingerprint Reader
