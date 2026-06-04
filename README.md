@@ -18,6 +18,7 @@ While issues (and solutions) can be discussed and tracked in this repository, it
 - :heavy_check_mark: Native screen resolution (disable PSR)
 - :heavy_check_mark: Power button
 - :heavy_check_mark: Lid switch
+- :heavy_check_mark: Fingerprint Reader (Goodix MOC 27c6:6890)
 
 ### What doesn't work
 
@@ -32,7 +33,6 @@ While issues (and solutions) can be discussed and tracked in this repository, it
 - :question: Thunderbolt 4 (:heavy_check_mark: screen, ethernet, hid, etc…)
 - :question: Fan control
 - :question: Suspend/Resume
-- :question: Fingerprint Reader
 - :question: Fan speed
 - :question: Respect battery tresholds
 
