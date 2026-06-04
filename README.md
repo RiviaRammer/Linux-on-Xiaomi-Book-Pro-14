@@ -61,6 +61,9 @@ Add following boot parameter to the kernel commandline to fix screen:
 i915.enable_psr=0
 ```
 
+### 3. Fingerprint Reader
+
+Add Goodix MOC 27c6:6890 and rebuild libfprint.
 
 ## Machine Infos
 
