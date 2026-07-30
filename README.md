@@ -58,7 +58,7 @@ i8042.dumbkbd
 Add following boot parameter to the kernel commandline to fix screen:
 
 ```
-i915.enable_psr=0
+xe.enable_psr=0 xe.enable_fbc=0 xe.enable_dc=0
 ```
 
 ### 3. Fingerprint Reader
